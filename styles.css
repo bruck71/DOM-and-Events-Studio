@@ -28,3 +28,10 @@
 .centered {
     text-align: center;
 }
+
+#rocket{
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 37px);
+    
+}
